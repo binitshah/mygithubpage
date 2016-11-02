@@ -1,0 +1,29 @@
+search bar
+
+340x200 are image banners
+
+project name
+description
+time frame
+featured
+category
+project platforms (tags)
+image url
+call to action link 1, call to action link 2, call to action link 3
+wavecolor
+
+dynamically
+- pull jokes off reddit
+- pull the weather
+- repository of poems
+
+
+
+BLOG
+http://blog.ncase.me/
+
+search
+
+date
+category
+tag

@@ -1,0 +1,48 @@
+Medfield TV
+The Medfield TV app provides listings for ongoing/upcoming shows along with descriptions, access to online content via YouTube, the ability to request DVDs and contact Medfield TV volunteers.
+May 2015 - July 2015
+false
+Programming, Design
+Android, Java, YouTube API, Parse, Photoshop
+tb-medfieldtv.png
+[Github](https://github.com/binitshah/medfieldtv)
+
+Aspen
+The Aspen app was designed to make your life as a student easier. All your grades, schedules, and homework are a tap away. Get notified whenever a grade is released. Manage Schedules. Live life stress free.
+Feburary 2016 - May 2016
+true
+Programming
+Android, Java, Web, JSoup
+tb-aspen.png
+[Landing Page](http://binitshah.com/+aspen/)
+
+The Allies Game
+The Allies is a web app game that you can play with a group of friends. The game's console is displayed on TV for all players to see. Each player joins the game using their phone. The Allies is a thrilling game that will leave you questioning everyone.
+July 2016 - August 2016
+true
+Programming
+Web, Javascript, JQuery, CSS3, HTML5, Firebase
+tb-allies.png
+[Web App](http://binitshah.com/+allies/)
+
+Fyt Flow
+The Fyt Flow app is changing the way people think about staying healthy. Our platform brings together a community of local fitness experts, nutritionists and groups of people looking to stay fyt.
+July 2015 - September 2015
+false
+Programming, Design, Marketing
+Android, Java, Photoshop, Facebook
+tb-fytflow.png
+[Landing Page](http://binitshah.com/+fytflow/), [Official Website](http://www.fyt-inc.com/)
+
+Gif Creator
+The Gif Creator is a website that allows you to use video, images, urls or your webcam to create gifs. The js library behind this project was created by Yahoo and is called GifShot.
+April 2015
+false
+Programming
+Web, PHP, Javascript, CSS3, HTML5
+
+
+Polar Bear Club
+
+Snake
+
